@@ -16,19 +16,23 @@ A simple, web-based to-do list application built using Python and Streamlit. Thi
 To run the project locally, follow these steps:
 
 1. Clone the repository:
+   
     ```bash
     git clone https://github.com/yourusername/minimalistic-todo-app.git
     ```
-2. Navigate to the project directory:
-    ```bash
+3. Navigate to the project directory:
+
+   ```bash
     cd minimalistic-todo-app
     ```
-3. Install the required dependencies:
-    ```bash
+5. Install the required dependencies:
+
+   ```bash
     pip install -r requirements.txt
     ```
-4. Run the application:
-    ```bash
+7. Run the application:
+
+   ```bash
     streamlit run web.py
     ```
 
